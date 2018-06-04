@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_data_fragment">Hello from  Datafragment</string>
+    <string name="hello_details_fragment">Hello from Detailsfragment</string>
+    <string name="hola_mundo">Hola mundo</string>
+
+</resources>
